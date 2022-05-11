@@ -1,1 +1,1 @@
-# anonymized-diffusion.github.io
+# diffusion-planning.github.io
