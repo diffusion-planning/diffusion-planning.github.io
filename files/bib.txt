@@ -1,6 +1,6 @@
-@inproceedings{janner2021sequence,
-  title = {Offline Reinforcement Learning as One Big Sequence Modeling Problem},
-  author = {Michael Janner and Qiyang Li and Sergey Levine},
-  booktitle = {Advances in Neural Information Processing Systems},
-  year = {2021},
+@inproceedings{janner2022diffuser,
+  title = {Planning with Diffusion for Flexible Behavior Synthesis},
+  author = {Michael Janner and Yilun Du and Joshua Tenenbaum and Sergey Levine},
+  booktitle = {International Conference on Machine Learning},
+  year = {2022},
 }
