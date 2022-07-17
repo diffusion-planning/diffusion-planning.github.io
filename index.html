@@ -88,6 +88,24 @@
       text-decoration: underline;
     }
 
+  .video-container {
+      background-color: white;
+      position: relative;
+      padding-left: 17.5%;
+      /* 16:9 * .65 */
+      padding-bottom: 36.5625%;
+      height: 0;
+  }
+  .video-container iframe {
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 17.5;
+      width: 65%;
+      height: 100%;
+      border: none;
+  }
+
   </style>
 
   <style type="text/css">/**
@@ -286,6 +304,14 @@
         </div>
         <br>
         <br>
+        <br>
+
+        <div class="video-container">
+          <center>
+            <iframe src="https://drive.google.com/file/d/1FZ9mgPHT3S6Lq2grE_epW5qlstoLS4Yt/preview"
+                    width="80%" allow="autoplay"></iframe>
+          </center>
+        </div>
         <br>
         <br>
 
